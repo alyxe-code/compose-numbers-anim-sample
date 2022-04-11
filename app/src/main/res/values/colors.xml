@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="gray0">#FFFFFFFF</color>
+  <color name="gray100">#FFF5F5F5</color>
+  <color name="gray150">#FFC7C7C7</color>
+  <color name="gray200">#FFB2B2B2</color>
+  <color name="gray250">#FF9A9B9D</color>
+  <color name="gray300">#FF73757C</color>
+  <color name="gray350">#FF767B8F</color>
+  <color name="gray400">#FF575C6A</color>
+  <color name="gray450">#FF333440</color>
+  <color name="gray500">#FF2F3144</color>
+  <color name="gray550">#FF202231</color>
+  <color name="gray600">#FF1D1E21</color>
+  <color name="gray700">#FF171825</color>
+  <color name="gray800">#FF1C1E24</color>
+  <color name="gray900">#FF11121D</color>
+
+  <color name="orange0">#FFFBE8DC</color>
+  <color name="orange100">#FFFC8C3A</color>
+  <color name="orange150">#FF8D22</color>
+  <color name="orange200">#FFFF7D26</color>
+  <color name="orange300">#FFFE7534</color>
+  <color name="orange400">#FFFF6600</color>
+  <color name="orange900">#FF342626</color>
+
+  <color name="red0">#FFFFEBEB</color>
+  <color name="red100">#FFFF1313</color>
+  <color name="red200">#FFD21515</color>
+  <color name="red900">#FF483647</color>
+
+  <color name="green0">#FFEDFBF1</color>
+  <color name="green100">#FF55D55A</color>
+  <color name="green200">#FF0BC43F</color>
+  <color name="green900">#FF116729</color>
+</resources>
